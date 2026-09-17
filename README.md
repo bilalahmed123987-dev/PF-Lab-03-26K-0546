@@ -1,20 +1,20 @@
-# PF-Lab-03-26K-0546
+## PF-Lab-03-26K-0546
 
 Name : Bilal Ahmed
 
 ROLL Number: 26K-0546
 
-##Lab Title :
+## Lab Title :
 
  Introduction to GitHub and C Programming Language
  
- ##Introduction : 
+ ## Introduction : 
  
  This lab introduces us to GitHub and the C programming language.
 In this lab, I learned how to create a GitHub repository,
 write Markdown, and work with basic C programming concepts.
 
-##Objectives :
+## Objectives :
 
 1. Learn how to create a GitHub repository.
 2. Learn basic Markdown formatting.
