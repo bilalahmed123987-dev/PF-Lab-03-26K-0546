@@ -5,25 +5,25 @@
 START
 
 DECLARE name as string
-DECLARE rollNo as integer
-DECLARE age as integer
-DECLARE height as float
+DECLARE RollNo as integer
+DECLARE Age as integer
+DECLARE Height as float
 DECLARE GPA as float
-DECLARE section as character
+DECLARE Section as character
 
 INPUT name
-INPUT rollNo
-INPUT age
-INPUT height
+INPUT RollNo.
+INPUT Age
+INPUT Height
 INPUT GPA
-INPUT section
+INPUT Section
 
-DISPLAY name
-DISPLAY rollNo
-DISPLAY age
-DISPLAY height
+DISPLAY Name
+DISPLAY RollNo
+DISPLAY Age
+DISPLAY Height
 DISPLAY GPA
-DISPLAY section
+DISPLAY Section
 
 END
 
