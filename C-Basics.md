@@ -14,7 +14,7 @@
 ## 2. Format Specifiers
 
 | Format Specifier | Description |
-
+|---|---|
 | %d | Integer |
 | %u | Unsigned integer |
 | %o | Octal |
@@ -29,7 +29,7 @@
 ## 3. Input/Output Functions
 
 | Function | Description |
-
+|---|---|
 | scanf() | Takes formatted input from the user |
 | printf() | Displays formatted output |
 | getchar() | Reads one character |
@@ -40,7 +40,7 @@
 ## 4. Escape Sequences
 
 | Escape Sequence | Meaning |
-
+|---|---|
 | \n | New line |
 | \t | Tab |
 | \\ | Backslash |
